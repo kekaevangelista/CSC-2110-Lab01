@@ -1,6 +1,7 @@
 #if !defined MATRIX_H
 #define MATRIX_H
 
+//teste
 //the indices are not 0-based!!
 class Matrix
 {
